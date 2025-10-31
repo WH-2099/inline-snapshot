@@ -27,6 +27,7 @@ for package_name in sorted(package_list):
 ]]]-->
 * [inline-snapshot-django](https://pypi.org/project/inline-snapshot-django/) Extensions for using inline-snapshot to test Django projects.
 * [inline-snapshot-pandas](https://pypi.org/project/inline-snapshot-pandas/) pandas integration for inline-snapshot (insider only)
+* [inline-snapshot-phash](https://pypi.org/project/inline-snapshot-phash/) Perceptual hash storage protocol for inline-snapshot
 <!--[[[end]]]-->
 
 
